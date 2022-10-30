@@ -8,6 +8,6 @@
 6. Explicació de com afegir fitxers i esborrar-los.
 7. Explicació del límit del compte d'usuari i què fer si s'ha superat.
 
-
 Es demana fer servir llenguatge formal i adreçar-se a la persona a la que s'està escrivint el mail de vostè.
+
 
